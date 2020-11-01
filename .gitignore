@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# "homepage": "https://oleksii-kyrsenko.github.io/gh-test",
+
+# "predeploy": "npm run build",
+#    "deploy": "gh-pages -d build"
